@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Contador",
+            "request": "launch",
+            "mainClass": "Contador",
+            "projectName": "terminal-argumentos_295d71e3"
+        },
+        {
+            "type": "java",
+            "name": "CalculadoraDeMedias",
+            "request": "launch",
+            "mainClass": "CalculadoraDeMedias",
+            "projectName": "terminal-argumentos_295d71e3"
+        },
+        {
+            "type": "java",
+            "name": "Metodos",
+            "request": "launch",
+            "mainClass": "Metodos",
+            "projectName": "terminal-argumentos_295d71e3"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
@@ -15,14 +36,13 @@
             "name": "AboutMe",
             "request": "launch",
             "mainClass": "AboutMe",
-            "args":[ 
+            "args": [
                 "David",
                 "Souza",
                 "19",
                 "1.73"
             ],
             "projectName": "terminal-argumentos_295d71e3"
-            
         },
         {
             "type": "java",
