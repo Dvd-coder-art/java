@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/banco-sistema/banco-sistema.iml" filepath="$PROJECT_DIR$/banco-sistema/banco-sistema.iml" />
+      <module fileurl="file://$PROJECT_DIR$/conta-bancaria/conta-bancaria.iml" filepath="$PROJECT_DIR$/conta-bancaria/conta-bancaria.iml" />
+      <module fileurl="file://$PROJECT_DIR$/escopo/escopo.iml" filepath="$PROJECT_DIR$/escopo/escopo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/estruta-repetição/estruta-repetição.iml" filepath="$PROJECT_DIR$/estruta-repetição/estruta-repetição.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iphone-java/iphone-java.iml" filepath="$PROJECT_DIR$/iphone-java/iphone-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java.iml" filepath="$PROJECT_DIR$/.idea/java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/metodos/metodos.iml" filepath="$PROJECT_DIR$/metodos/metodos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/operadores/operadores.iml" filepath="$PROJECT_DIR$/operadores/operadores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/project1/project1.iml" filepath="$PROJECT_DIR$/project1/project1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/terminal-argumentos/terminal-argumentos.iml" filepath="$PROJECT_DIR$/terminal-argumentos/terminal-argumentos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tipos-variaveis/tipos-variaveis.iml" filepath="$PROJECT_DIR$/tipos-variaveis/tipos-variaveis.iml" />
+    </modules>
+  </component>
+</project>
